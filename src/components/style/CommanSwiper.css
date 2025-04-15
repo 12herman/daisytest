@@ -1,0 +1,34 @@
+.swiper-pagination-bullet {
+    background-color: var(--color-base-100); /* use your DaisyUI primary color */
+    opacity: 0.5;
+  }
+  
+  .swiper-pagination-bullet-active {
+    background-color: var(--color-base-100); /* active dot */
+    opacity: 1;
+  }
+  
+/* Style for Swiper navigation buttons */
+.swiper-button-prev,
+.swiper-button-next {
+  color: var(--color-primary); /* Use your DaisyUI primary color */
+  background-color: var(--color-base-200); /* Optional background */
+  border-radius: 5px;
+  padding: 4px;
+  font-size: 0.8rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.swiper-button-prev::after,
+.swiper-button-next::after {
+  font-size: 0.8rem; /* Adjust arrow size */
+}
+
+.swiper-button-prev:hover,
+.swiper-button-next:hover {
+  background-color: rgb(179, 175, 175);
+  color: white;
+}
+

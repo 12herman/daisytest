@@ -1,7 +1,10 @@
 import React from 'react'
+import Layout from '../components/Layout'
 
 export default function FoodDetails() {
   return (
-    <div>FoodDetails</div>
+    <Layout>
+      <div>FoodDetails</div>
+    </Layout>
   )
 }
