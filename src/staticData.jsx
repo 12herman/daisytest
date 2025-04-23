@@ -1,3 +1,9 @@
+// your information
+export const myInfo={
+  email:"josephherman810@gmail.com",
+  mobileno:"+91 6369975517"
+}
+
 // 1.nav bar
 export const navbarData = [
   {
@@ -277,3 +283,251 @@ export const FoodPageProductData = [
   },
   
 ];
+
+
+
+// ii) food product details
+export const HandMadeProductData = [
+  {
+    id:'food1',
+    heading:"Karupatti1",
+    description:"A card component has a figure, a body part, and inside body there are title and actions parts",
+    img:"https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp",
+    ishomecard:true,
+    isavailable:false,
+    mrp:800,
+    sellingprice:400,
+    isweightproduct:false,
+    weight:"1"
+  },
+  {
+    id:'food2',
+   heading:"Karupatti2",
+    description:"A card component has a figure, a body part, and inside body there are title and actions parts",
+    img:"https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp",
+    ishomecard:true,
+    isavailable:true,
+    mrp:800,
+    sellingprice:400,
+    isweightproduct:false,
+    weight:"1"
+  },
+  {
+    id:'food3',
+   heading:"Karupatti3",
+    description:"A card component has a figure, a body part, and inside body there are title and actions parts",
+    img:"https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp",
+    ishomecard:true,
+    isavailable:true,
+    mrp:800,
+    sellingprice:400,
+    isweightproduct:false,
+    weight:"1"
+  },
+  {
+    id:'food4',
+   heading:"Karupatti4",
+    description:"A card component has a figure, a body part, and inside body there are title and actions parts",
+    img:"https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp",
+    ishomecard:true,
+    isavailable:true,
+    mrp:800,
+    sellingprice:400,
+    isweightproduct:false,
+    weight:"1"
+  },
+  {
+    id:'food5',
+   heading:"Karupatti5",
+    description:"A card component has a figure, a body part, and inside body there are title and actions parts",
+    img:"https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp",
+    ishomecard:true,
+    isavailable:true,
+    mrp:800,
+    sellingprice:400,
+    isweightproduct:false,
+    weight:"1"
+  },
+  {
+    id:'food6',
+   heading:"Karupatti6",
+    description:"A card component has a figure, a body part, and inside body there are title and actions parts",
+    img:"https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp",
+    ishomecard:true,
+    isavailable:true,
+    mrp:800,
+    sellingprice:400,
+    isweightproduct:false,
+    weight:"1"
+  },
+  {
+    id:'food7',
+   heading:"Karupatti7",
+    description:"A card component has a figure, a body part, and inside body there are title and actions parts",
+    img:"https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp",
+    ishomecard:true,
+    isavailable:true,
+    mrp:800,
+    sellingprice:400,
+    isweightproduct:false,
+    weight:"1"
+  },
+];
+
+
+// About Page
+export const customerReview =[
+  {
+    content:`I was using Bootstrap first, then switched to Tailwind, but there were so
+      many classes—too much code. Then I found daisyUI. If you're coming from a
+      BootstrapCSS background, you will love daisyUI for sure. 🙌`,
+    name:"Jagdish Kashyap",
+    jobtitle:"Software Developer",
+    img:'https://img.daisyui.com/generated/x.webp?2025-03-17T10:36:37.751Z'
+  },
+  {
+    content:`I was using Bootstrap first, then switched to Tailwind, but there were so
+      many classes—too much code. Then I found daisyUI. If you're coming from a
+      BootstrapCSS background, you will love daisyUI for sure. 🙌`,
+    name:"Jagdish Kashyap",
+    jobtitle:"Software Developer",
+    img:'https://img.daisyui.com/generated/x.webp?2025-03-17T10:36:37.751Z'
+  },
+  {
+    content:`I was using Bootstrap first, then switched to Tailwind, but there were so
+      many classes—too much code. Then I found daisyUI. If you're coming from a
+      BootstrapCSS background, you will love daisyUI for sure. 🙌`,
+    name:"Jagdish Kashyap",
+    jobtitle:"Software Developer",
+    img:'https://img.daisyui.com/generated/x.webp?2025-03-17T10:36:37.751Z'
+  },
+  {
+    content:`I was using Bootstrap first, then switched to Tailwind, but there were so
+      many classes—too much code. Then I found daisyUI. If you're coming from a
+      BootstrapCSS background, you will love daisyUI for sure. 🙌`,
+    name:"Jagdish Kashyap",
+    jobtitle:"Software Developer",
+    img:'https://img.daisyui.com/generated/x.webp?2025-03-17T10:36:37.751Z'
+  },
+  {
+    content:`I was using Bootstrap first, then switched to Tailwind, but there were so
+      many classes—too much code. Then I found daisyUI. If you're coming from a
+      BootstrapCSS background, you will love daisyUI for sure. 🙌`,
+    name:"Jagdish Kashyap",
+    jobtitle:"Software Developer",
+    img:'https://img.daisyui.com/generated/x.webp?2025-03-17T10:36:37.751Z'
+  },
+  {
+    content:`I was using Bootstrap first, then switched to Tailwind, but there were so
+      many classes—too much code. Then I found daisyUI. If you're coming from a
+      BootstrapCSS background, you will love daisyUI for sure. 🙌`,
+    name:"Jagdish Kashyap",
+    jobtitle:"Software Developer",
+    img:'https://img.daisyui.com/generated/x.webp?2025-03-17T10:36:37.751Z'
+  },
+  {
+    content:`I was using Bootstrap first, then switched to Tailwind, but there were so
+      many classes—too much code. Then I found daisyUI. If you're coming from a
+      BootstrapCSS background, you will love daisyUI for sure. 🙌`,
+    name:"Jagdish Kashyap",
+    jobtitle:"Software Developer",
+    img:'https://img.daisyui.com/generated/x.webp?2025-03-17T10:36:37.751Z'
+  },
+  {
+    content:`I was using Bootstrap first, then switched to Tailwind, but there were so
+      many classes—too much code. Then I found daisyUI. If you're coming from a
+      BootstrapCSS background, you will love daisyUI for sure. 🙌`,
+    name:"Jagdish Kashyap",
+    jobtitle:"Software Developer",
+    img:'https://img.daisyui.com/generated/x.webp?2025-03-17T10:36:37.751Z'
+  },
+  {
+    content:`I was using Bootstrap first, then switched to Tailwind, but there were so
+      many classes—too much code. Then I found daisyUI. If you're coming from a
+      BootstrapCSS background, you will love daisyUI for sure. 🙌`,
+    name:"Jagdish Kashyap",
+    jobtitle:"Software Developer",
+    img:'https://img.daisyui.com/generated/x.webp?2025-03-17T10:36:37.751Z'
+  },
+  {
+    content:`I was using Bootstrap first, then switched to Tailwind, but there were so
+      many classes—too much code. Then I found daisyUI. If you're coming from a
+      BootstrapCSS background, you will love daisyUI for sure. 🙌`,
+    name:"Jagdish Kashyap",
+    jobtitle:"Software Developer",
+    img:'https://img.daisyui.com/generated/x.webp?2025-03-17T10:36:37.751Z'
+  },
+  {
+    content:`I was using Bootstrap first, then switched to Tailwind, but there were so
+      many classes—too much code. Then I found daisyUI. If you're coming from a
+      BootstrapCSS background, you will love daisyUI for sure. 🙌`,
+    name:"Jagdish Kashyap",
+    jobtitle:"Software Developer",
+    img:'https://img.daisyui.com/generated/x.webp?2025-03-17T10:36:37.751Z'
+  },
+  {
+    content:`I was using Bootstrap first, then switched to Tailwind, but there were so
+      many classes—too much code. Then I found daisyUI. If you're coming from a
+      BootstrapCSS background, you will love daisyUI for sure. 🙌`,
+    name:"Jagdish Kashyap",
+    jobtitle:"Software Developer",
+    img:'https://img.daisyui.com/generated/x.webp?2025-03-17T10:36:37.751Z'
+  },
+  {
+    content:`I was using Bootstrap first, then switched to Tailwind, but there were so
+      many classes—too much code. Then I found daisyUI. If you're coming from a
+      BootstrapCSS background, you will love daisyUI for sure. 🙌`,
+    name:"Jagdish Kashyap",
+    jobtitle:"Software Developer",
+    img:'https://img.daisyui.com/generated/x.webp?2025-03-17T10:36:37.751Z'
+  },
+  {
+    content:`I was using Bootstrap first, then switched to Tailwind, but there were so
+      many classes—too much code. Then I found daisyUI. If you're coming from a
+      BootstrapCSS background, you will love daisyUI for sure. 🙌`,
+    name:"Jagdish Kashyap",
+    jobtitle:"Software Developer",
+    img:'https://img.daisyui.com/generated/x.webp?2025-03-17T10:36:37.751Z'
+  },
+  {
+    content:`I was using Bootstrap first, then switched to Tailwind, but there were so
+      many classes—too much code. Then I found daisyUI. If you're coming from a
+      BootstrapCSS background, you will love daisyUI for sure. 🙌`,
+    name:"Jagdish Kashyap",
+    jobtitle:"Software Developer",
+    img:'https://img.daisyui.com/generated/x.webp?2025-03-17T10:36:37.751Z'
+  },
+  {
+    content:`I was using Bootstrap first, then switched to Tailwind, but there were so
+      many classes—too much code. Then I found daisyUI. If you're coming from a
+      BootstrapCSS background, you will love daisyUI for sure. 🙌`,
+    name:"Jagdish Kashyap",
+    jobtitle:"Software Developer",
+    img:'https://img.daisyui.com/generated/x.webp?2025-03-17T10:36:37.751Z'
+  },
+];
+
+
+export const videoCardData = [
+  {
+    videoUrl: "https://www.youtube.com/embed/K9ZyTGuyw5M",
+    heading: "Your Title",
+    para: "Description text"
+  },
+  {
+    videoUrl: "https://www.youtube.com/embed/mXCYyvbg1fM",
+    heading: "Your Title",
+    para: "Description text"
+  },
+  {
+    videoUrl: "https://www.youtube.com/embed/tshn6cIWD28",
+    heading: "Your Title",
+    para: "Description text"
+  },
+  {
+    videoUrl: "https://www.youtube.com/embed/cIUfpgDCw68",
+    heading: "Your Title",
+    para: "Description text"
+  }
+];
+

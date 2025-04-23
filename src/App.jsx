@@ -18,7 +18,7 @@ function AppContent() {
   const location = useLocation();
 
   // Add paths where you do NOT want the footer
-  const hideFooterRoutes = ["/addtocart", "/food/:name", "/handproduct/:name","/food","/handproduct"];
+  const hideFooterRoutes = ["/addtocart", "/food/:name", "/handproduct/:name","/food","/handproduct","/contact"];
 
   const shouldHideFooter = hideFooterRoutes.some(path =>
     location.pathname.startsWith(path.split(":")[0])

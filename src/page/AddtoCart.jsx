@@ -49,8 +49,7 @@ const downloadImg = ()=> htmToImgRef.current?.downloadImage();
 
   return (
     <Layout>
-      {
-        cartdata.length > 0 ? <>
+      { cartdata.length > 0 ? <>
         <section className="mt-18">
           <ul className="flex items-center justify-between">
             <li>
@@ -183,8 +182,6 @@ const downloadImg = ()=> htmToImgRef.current?.downloadImage();
         <Link to="/"><button className="btn btn-sm md:btn-md bg-primary text-white">Shop Now</button></Link>
         </div>
       }
-      
-
     </Layout>
   );
 }

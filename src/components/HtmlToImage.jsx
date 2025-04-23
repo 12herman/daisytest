@@ -157,6 +157,7 @@ const HtmlToImage = forwardRef((props,ref) =>{
               <p><strong>Address:</strong> {props.customerdata.address}</p>
               <p><strong>City:</strong> {props.customerdata.city}</p>
               <p><strong>District:</strong> {props.customerdata.district}</p>
+              <p><strong>State:</strong> {props.customerdata.state}</p>
               <p><strong>Pincode:</strong> {props.customerdata.pincode}</p>
             </div>
           </>
