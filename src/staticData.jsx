@@ -204,7 +204,7 @@ export const homePageHandProductData = [
 export const FoodPageProductData = [
   {
     id:'food1',
-    heading:"Karupatti1",
+    heading:"Product1",
     description:"A card component has a figure, a body part, and inside body there are title and actions parts",
     img:"https://cdn.pixabay.com/photo/2017/02/02/14/04/grapes-2032838_1280.jpg",
     ishomecard:true,
@@ -216,7 +216,7 @@ export const FoodPageProductData = [
   },
   {
     id:'food2',
-   heading:"Karupatti2",
+   heading:"Product2",
     description:"A card component has a figure, a body part, and inside body there are title and actions parts",
     img:"https://cdn.pixabay.com/photo/2016/05/31/13/01/raspberries-1426859_1280.jpg",
     ishomecard:true,
@@ -228,7 +228,7 @@ export const FoodPageProductData = [
   },
   {
     id:'food3',
-   heading:"Karupatti3",
+   heading:"Product3",
     description:"A card component has a figure, a body part, and inside body there are title and actions parts",
     img:"https://cdn.pixabay.com/photo/2017/07/20/18/40/apricots-2523272_1280.jpg",
     ishomecard:true,
@@ -240,7 +240,7 @@ export const FoodPageProductData = [
   },
   {
     id:'food4',
-   heading:"Karupatti4",
+   heading:"Product4",
     description:"A card component has a figure, a body part, and inside body there are title and actions parts",
     img:"https://cdn.pixabay.com/photo/2024/03/07/19/31/ai-generated-8619138_1280.png",
     ishomecard:true,
@@ -252,7 +252,7 @@ export const FoodPageProductData = [
   },
   {
     id:'food5',
-   heading:"Karupatti5",
+   heading:"Product5",
     description:"A card component has a figure, a body part, and inside body there are title and actions parts",
     img:"https://cdn.pixabay.com/photo/2016/08/30/18/45/grilled-1631727_1280.jpg",
     ishomecard:true,
@@ -264,7 +264,7 @@ export const FoodPageProductData = [
   },
   {
     id:'food6',
-   heading:"Karupatti6",
+   heading:"Product6",
     description:"A card component has a figure, a body part, and inside body there are title and actions parts",
     img:"https://cdn.pixabay.com/photo/2016/07/22/02/58/cherries-1534063_1280.jpg",
     ishomecard:true,
@@ -276,7 +276,7 @@ export const FoodPageProductData = [
   },
   {
     id:'food7',
-   heading:"Karupatti7",
+   heading:"Product7",
     description:"A card component has a figure, a body part, and inside body there are title and actions parts",
     img:"https://cdn.pixabay.com/photo/2024/06/11/02/01/ai-generated-8821696_1280.png",
     ishomecard:true,
@@ -295,7 +295,7 @@ export const FoodPageProductData = [
 export const HandMadeProductData = [
   {
     id:'food1',
-    heading:"Karupatti1",
+    heading:"Product1",
     description:"A card component has a figure, a body part, and inside body there are title and actions parts",
     img:"https://cdn.pixabay.com/photo/2022/05/17/02/43/pins-7201500_1280.jpg",
     ishomecard:true,
@@ -307,7 +307,7 @@ export const HandMadeProductData = [
   },
   {
     id:'food2',
-   heading:"Karupatti2",
+   heading:"Product2",
     description:"A card component has a figure, a body part, and inside body there are title and actions parts",
     img:"https://cdn.pixabay.com/photo/2024/05/13/20/10/ai-generated-8759668_1280.jpg",
     ishomecard:true,
@@ -319,7 +319,7 @@ export const HandMadeProductData = [
   },
   {
     id:'food3',
-   heading:"Karupatti3",
+   heading:"Product3",
     description:"A card component has a figure, a body part, and inside body there are title and actions parts",
     img:"https://cdn.pixabay.com/photo/2022/08/01/07/36/embroidery-7357531_1280.jpg",
     ishomecard:true,
@@ -331,7 +331,7 @@ export const HandMadeProductData = [
   },
   {
     id:'food4',
-   heading:"Karupatti4",
+   heading:"Product4",
     description:"A card component has a figure, a body part, and inside body there are title and actions parts",
     img:"https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp",
     ishomecard:true,
@@ -343,7 +343,7 @@ export const HandMadeProductData = [
   },
   {
     id:'food5',
-   heading:"Karupatti5",
+   heading:"Product5",
     description:"A card component has a figure, a body part, and inside body there are title and actions parts",
     img:"https://cdn.pixabay.com/photo/2018/07/23/10/01/leather-craft-3556443_1280.jpg",
     ishomecard:true,
@@ -355,7 +355,7 @@ export const HandMadeProductData = [
   },
   {
     id:'food6',
-   heading:"Karupatti6",
+   heading:"Product6",
     description:"A card component has a figure, a body part, and inside body there are title and actions parts",
     img:"https://cdn.pixabay.com/photo/2013/03/23/23/10/brush-96240_1280.jpg",
     ishomecard:true,
@@ -367,7 +367,7 @@ export const HandMadeProductData = [
   },
   {
     id:'food7',
-   heading:"Karupatti7",
+   heading:"Product7",
     description:"A card component has a figure, a body part, and inside body there are title and actions parts",
     img:"https://cdn.pixabay.com/photo/2016/07/08/14/12/bowl-1504422_1280.jpg",
     ishomecard:true,
