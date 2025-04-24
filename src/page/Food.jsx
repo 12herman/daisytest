@@ -49,7 +49,7 @@ export default function Food() {
   return (
     <Layout>
       <section className="mt-18">
-        <Heading />
+        <Heading headone='Our' headtwo='Natural' slogan='Product' key={5}/>
         <div className='w-full mt-3'>
           <SearchBar searchTerm={searchTerm} setSearchTerm={setSearchTerm} />
         </div>

@@ -52,7 +52,7 @@ export default function HandProducts() {
   return (
     <Layout>
       <section className="mt-18">
-        <Heading />
+        <Heading headone='Our' headtwo='Handmade' slogan='Products' key={6}/>
         <div className='w-full mt-3'>
           <SearchBar searchTerm={searchTerm} setSearchTerm={setSearchTerm} />
         </div>
