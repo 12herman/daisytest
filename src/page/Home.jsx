@@ -17,7 +17,7 @@ export default function Home() {
 
       {/* 3 cards */}
       <section className=" mt-5 lg:mt-20">
-        <Heading headone="Our" headtwo="Services" slogan ="Testing"/>
+        <Heading headone="Our" headtwo="Main" slogan ="Services"/>
        <div className="flex flex-wrap justify-center items-center gap-x-5 gap-y-5 mt-5 lg:mt-10">
        {
           homePageThreeCard.map((tcdata,i)=>( <div key={i} className="card w-full border border-base-300 rounded-xl bg-base-100 sm:w-72 md:w-80 cursor-pointer">
@@ -32,12 +32,12 @@ export default function Home() {
       </section>
 
       <section className=" mt-5 lg:mt-20">
-      <Heading headone="Natural" headtwo="Food" slogan ="Testing"/>
+      <Heading headone="Natural" headtwo="Food" slogan ="Variety"/>
         <div className="mt-5 lg:mt-10"> <HomeFoodSwiper/> </div>
       </section>
 
       <section className=" my-5 lg:my-20">
-      <Heading headone="Hand made" headtwo="Products" slogan ="Testing"/>
+      <Heading headone="Hand made" headtwo="Products" slogan ="Variety"/>
         <div className="mt-5 lg:mt-10"> <HomeHandProductSwiper/> </div>
       </section>
 

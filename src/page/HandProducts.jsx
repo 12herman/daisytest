@@ -62,11 +62,11 @@ export default function HandProducts() {
         {filteredProducts.length > 0 ? filteredProducts.map((fdata, i) => (
           <div key={i} className="card bg-base-100 border border-base-300 w-44 md:w-64 rounded-xl">
             
-            <figure className='relative'>
-              <img
+            <figure style={{backgroundImage: `url(${fdata.img})`}} className='relative w-full h-[100px] sm:h-[160px] bg-cover bg-center bg-no-repeat'>
+              {/* <img
                 src="https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp"
                 alt="Shoes"
-              />
+              /> */}
              
               <button className='absolute btn btn-xs top-2 left-2 btn-primary text-white btn-circle'>
                 <RiInfoI size={13} />

@@ -50,7 +50,7 @@ export default function Nav() {
               </svg>
             </label>
           </div>
-          <a className="btn btn-ghost text-xl">daisyUI</a>
+          <Link to='/' className="btn btn-ghost text-xl">Herman</Link>
         </div>
         <div className="flex-none ">
           <ul className="menu menu-horizontal px-1 flex items-center justify-between">
@@ -127,6 +127,8 @@ export default function Nav() {
             className="drawer-overlay"
           ></label>
           <ul className="menu bg-base-100 text-base-content min-h-full w-80 p-4">
+          <Link to='/' className="btn btn-ghost text-xl flex items-center place-content-start">Herman</Link>
+           
             {navbarData.map((data, i) => (
               <li key={i}>
                 <Link

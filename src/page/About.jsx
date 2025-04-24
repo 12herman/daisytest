@@ -81,7 +81,7 @@ export default function About() {
 
           {/* 3 cards */}
             <section className=" mt-5 lg:mt-20">
-              <Heading headone="Our" headtwo="Main" slogan ="Vision"/>
+              <Heading headone="Our" headtwo="Main" slogan ="Services"/>
              <div className="flex flex-wrap justify-center items-center gap-x-5 gap-y-5 mt-5 lg:mt-10">
              {
                 homePageThreeCard.map((tcdata,i)=>( <div key={i} className="card w-full border border-base-300 rounded-xl bg-base-100 sm:w-72 md:w-80 cursor-pointer">
@@ -116,7 +116,7 @@ export default function About() {
                         `url(${data.img})`,
                       backgroundSize: "auto 48px",
                       backgroundRepeat: "no-repeat",
-                      backgroundPosition: "-816px 0px",
+                      // backgroundPosition: "-816px 0px",
                     }}
                   ></div>
                 </a>

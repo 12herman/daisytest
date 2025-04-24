@@ -40,11 +40,11 @@ export default function HomeFoodSwiper() {
             <SwiperSlide className="cursor-pointer" key={i}>
             <Link to="/food">
             <div className="card bg-base-100  border border-base-300 rounded-xl">
-              <figure>
-                <img
-                  src={fdata.img}
+              <figure style={{backgroundImage: `url(${fdata.img})`}} className="w-full h-[100px] sm:h-[160px] bg-cover bg-center bg-no-repeat">
+                {/* <img
+                  // src={fdata.img}
                   alt="Shoes"
-                />
+                /> */}
               </figure>
               <div className="card-body p-3 md:p-5">
                 <h2 className="card-title text-sm md:text-lg">{fdata.heading}</h2>

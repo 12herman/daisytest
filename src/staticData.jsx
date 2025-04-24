@@ -31,24 +31,29 @@ export const navbarData = [
 // 2.home page
 // i) home page panner slider
 import karupatti from "../src/assets/home/slider/karupatti.png";
+import imgone from "../src/assets/home/slider/7549-Photoroom.png";
+import imgtwo from "../src/assets/home/slider/watermelan.png";
+import imgthree from "../src/assets/home/slider/373254563_11473559-Photoroom.png";
+
+
 export const homePageSlideOne = [
   {
-    heading: "Karupatti",
+    heading: "Slide-1",
     subheading: "Make sure your browser",
     para: "Make sure your browser console has no Swiper-related errors like version mismatches or missing styles. Make sure your browser console has no Swiper-related errors like version mismatches or missing styles",
-    img: karupatti,
+    img: imgtwo,
   },
   {
-    heading: "Karupatti",
+    heading: "Slide-2",
     subheading: "Make sure your browser",
     para: "Make sure your browser console has no Swiper-related errors like version mismatches or missing styles. Make sure your browser console has no Swiper-related errors like version mismatches or missing styles",
-    img: karupatti,
+    img: imgone,
   },
   {
-    heading: "Karupatti",
+    heading: "Slide-3",
     subheading: "Make sure your browser",
     para: "Make sure your browser console has no Swiper-related errors like version mismatches or missing styles. Make sure your browser console has no Swiper-related errors like version mismatches or missing styles",
-    img: karupatti,
+    img: imgthree,
   },
 ];
 
@@ -116,37 +121,37 @@ export const homePageFoodCardData = [
   {
     heading:"Card Title",
     description:"A card component has a figure, a body part, and inside body there are title and actions parts",
-    img:"https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp",
+    img:"https://cdn.pixabay.com/photo/2017/02/02/14/04/grapes-2032838_1280.jpg",
   },
   {
     heading:"Card Title",
     description:"A card component has a figure, a body part, and inside body there are title and actions parts",
-    img:"https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp",
+    img:"https://cdn.pixabay.com/photo/2016/05/31/13/01/raspberries-1426859_1280.jpg",
   },
   {
     heading:"Card Title",
     description:"A card component has a figure, a body part, and inside body there are title and actions parts",
-    img:"https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp",
+    img:"https://cdn.pixabay.com/photo/2017/07/20/18/40/apricots-2523272_1280.jpg",
   },
   {
     heading:"Card Title",
     description:"A card component has a figure, a body part, and inside body there are title and actions parts",
-    img:"https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp",
+    img:"https://cdn.pixabay.com/photo/2024/03/07/19/31/ai-generated-8619138_1280.png",
   },
   {
     heading:"Card Title",
     description:"A card component has a figure, a body part, and inside body there are title and actions parts",
-    img:"https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp",
+    img:"https://cdn.pixabay.com/photo/2016/08/30/18/45/grilled-1631727_1280.jpg",
   },
   {
     heading:"Card Title",
     description:"A card component has a figure, a body part, and inside body there are title and actions parts",
-    img:"https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp",
+    img:"https://cdn.pixabay.com/photo/2016/07/22/02/58/cherries-1534063_1280.jpg",
   },
   {
     heading:"Card Title",
     description:"A card component has a figure, a body part, and inside body there are title and actions parts",
-    img:"https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp",
+    img:"https://cdn.pixabay.com/photo/2024/06/11/02/01/ai-generated-8821696_1280.png",
   },
   
 ];
@@ -158,37 +163,37 @@ export const homePageHandProductData = [
   {
     heading:"Card Title",
     description:"A card component has a figure, a body part, and inside body there are title and actions parts",
-    img:"https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp",
+    img:"https://cdn.pixabay.com/photo/2022/05/17/02/43/pins-7201500_1280.jpg",
   },
   {
     heading:"Card Title",
     description:"A card component has a figure, a body part, and inside body there are title and actions parts",
-    img:"https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp",
+    img:"https://cdn.pixabay.com/photo/2024/05/13/20/10/ai-generated-8759668_1280.jpg",
   },
   {
     heading:"Card Title",
     description:"A card component has a figure, a body part, and inside body there are title and actions parts",
-    img:"https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp",
+    img:"https://cdn.pixabay.com/photo/2022/08/01/07/36/embroidery-7357531_1280.jpg",
   },
   {
     heading:"Card Title",
     description:"A card component has a figure, a body part, and inside body there are title and actions parts",
-    img:"https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp",
+    img:"https://cdn.pixabay.com/photo/2018/07/23/10/01/leather-craft-3556443_1280.jpg",
   },
   {
     heading:"Card Title",
     description:"A card component has a figure, a body part, and inside body there are title and actions parts",
-    img:"https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp",
+    img:"https://cdn.pixabay.com/photo/2013/03/23/23/10/brush-96240_1280.jpg",
   },
   {
     heading:"Card Title",
     description:"A card component has a figure, a body part, and inside body there are title and actions parts",
-    img:"https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp",
+    img:"https://cdn.pixabay.com/photo/2016/07/08/14/12/bowl-1504422_1280.jpg",
   },
   {
     heading:"Card Title",
     description:"A card component has a figure, a body part, and inside body there are title and actions parts",
-    img:"https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp",
+    img:"https://cdn.pixabay.com/photo/2022/09/13/16/06/wooden-craft-7452294_1280.jpg",
   },
   
 ];
@@ -201,7 +206,7 @@ export const FoodPageProductData = [
     id:'food1',
     heading:"Karupatti1",
     description:"A card component has a figure, a body part, and inside body there are title and actions parts",
-    img:"https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp",
+    img:"https://cdn.pixabay.com/photo/2017/02/02/14/04/grapes-2032838_1280.jpg",
     ishomecard:true,
     isavailable:false,
     mrp:800,
@@ -213,7 +218,7 @@ export const FoodPageProductData = [
     id:'food2',
    heading:"Karupatti2",
     description:"A card component has a figure, a body part, and inside body there are title and actions parts",
-    img:"https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp",
+    img:"https://cdn.pixabay.com/photo/2016/05/31/13/01/raspberries-1426859_1280.jpg",
     ishomecard:true,
     isavailable:true,
     mrp:800,
@@ -225,7 +230,7 @@ export const FoodPageProductData = [
     id:'food3',
    heading:"Karupatti3",
     description:"A card component has a figure, a body part, and inside body there are title and actions parts",
-    img:"https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp",
+    img:"https://cdn.pixabay.com/photo/2017/07/20/18/40/apricots-2523272_1280.jpg",
     ishomecard:true,
     isavailable:true,
     mrp:800,
@@ -237,7 +242,7 @@ export const FoodPageProductData = [
     id:'food4',
    heading:"Karupatti4",
     description:"A card component has a figure, a body part, and inside body there are title and actions parts",
-    img:"https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp",
+    img:"https://cdn.pixabay.com/photo/2024/03/07/19/31/ai-generated-8619138_1280.png",
     ishomecard:true,
     isavailable:true,
     mrp:800,
@@ -249,7 +254,7 @@ export const FoodPageProductData = [
     id:'food5',
    heading:"Karupatti5",
     description:"A card component has a figure, a body part, and inside body there are title and actions parts",
-    img:"https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp",
+    img:"https://cdn.pixabay.com/photo/2016/08/30/18/45/grilled-1631727_1280.jpg",
     ishomecard:true,
     isavailable:true,
     mrp:800,
@@ -261,7 +266,7 @@ export const FoodPageProductData = [
     id:'food6',
    heading:"Karupatti6",
     description:"A card component has a figure, a body part, and inside body there are title and actions parts",
-    img:"https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp",
+    img:"https://cdn.pixabay.com/photo/2016/07/22/02/58/cherries-1534063_1280.jpg",
     ishomecard:true,
     isavailable:true,
     mrp:800,
@@ -273,7 +278,7 @@ export const FoodPageProductData = [
     id:'food7',
    heading:"Karupatti7",
     description:"A card component has a figure, a body part, and inside body there are title and actions parts",
-    img:"https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp",
+    img:"https://cdn.pixabay.com/photo/2024/06/11/02/01/ai-generated-8821696_1280.png",
     ishomecard:true,
     isavailable:true,
     mrp:800,
@@ -292,7 +297,7 @@ export const HandMadeProductData = [
     id:'food1',
     heading:"Karupatti1",
     description:"A card component has a figure, a body part, and inside body there are title and actions parts",
-    img:"https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp",
+    img:"https://cdn.pixabay.com/photo/2022/05/17/02/43/pins-7201500_1280.jpg",
     ishomecard:true,
     isavailable:false,
     mrp:800,
@@ -304,7 +309,7 @@ export const HandMadeProductData = [
     id:'food2',
    heading:"Karupatti2",
     description:"A card component has a figure, a body part, and inside body there are title and actions parts",
-    img:"https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp",
+    img:"https://cdn.pixabay.com/photo/2024/05/13/20/10/ai-generated-8759668_1280.jpg",
     ishomecard:true,
     isavailable:true,
     mrp:800,
@@ -316,7 +321,7 @@ export const HandMadeProductData = [
     id:'food3',
    heading:"Karupatti3",
     description:"A card component has a figure, a body part, and inside body there are title and actions parts",
-    img:"https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp",
+    img:"https://cdn.pixabay.com/photo/2022/08/01/07/36/embroidery-7357531_1280.jpg",
     ishomecard:true,
     isavailable:true,
     mrp:800,
@@ -340,7 +345,7 @@ export const HandMadeProductData = [
     id:'food5',
    heading:"Karupatti5",
     description:"A card component has a figure, a body part, and inside body there are title and actions parts",
-    img:"https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp",
+    img:"https://cdn.pixabay.com/photo/2018/07/23/10/01/leather-craft-3556443_1280.jpg",
     ishomecard:true,
     isavailable:true,
     mrp:800,
@@ -352,7 +357,7 @@ export const HandMadeProductData = [
     id:'food6',
    heading:"Karupatti6",
     description:"A card component has a figure, a body part, and inside body there are title and actions parts",
-    img:"https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp",
+    img:"https://cdn.pixabay.com/photo/2013/03/23/23/10/brush-96240_1280.jpg",
     ishomecard:true,
     isavailable:true,
     mrp:800,
@@ -364,7 +369,7 @@ export const HandMadeProductData = [
     id:'food7',
    heading:"Karupatti7",
     description:"A card component has a figure, a body part, and inside body there are title and actions parts",
-    img:"https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp",
+    img:"https://cdn.pixabay.com/photo/2016/07/08/14/12/bowl-1504422_1280.jpg",
     ishomecard:true,
     isavailable:true,
     mrp:800,
@@ -381,129 +386,129 @@ export const customerReview =[
     content:`I was using Bootstrap first, then switched to Tailwind, but there were so
       many classes—too much code. Then I found daisyUI. If you're coming from a
       BootstrapCSS background, you will love daisyUI for sure. 🙌`,
-    name:"Jagdish Kashyap",
+    name:"Herman",
     jobtitle:"Software Developer",
-    img:'https://img.daisyui.com/generated/x.webp?2025-03-17T10:36:37.751Z'
+    img:'https://img.freepik.com/premium-vector/vector-flat-illustration-grayscale-avatar-user-profile-person-icon-profile-picture-business-profile-woman-suitable-social-media-profiles-icons-screensavers-as-templatex9_719432-1328.jpg'
   },
   {
     content:`I was using Bootstrap first, then switched to Tailwind, but there were so
       many classes—too much code. Then I found daisyUI. If you're coming from a
       BootstrapCSS background, you will love daisyUI for sure. 🙌`,
-    name:"Jagdish Kashyap",
+    name:"Herman",
     jobtitle:"Software Developer",
-    img:'https://img.daisyui.com/generated/x.webp?2025-03-17T10:36:37.751Z'
+    img:'https://img.freepik.com/premium-vector/vector-flat-illustration-grayscale-avatar-user-profile-person-icon-profile-picture-business-profile-woman-suitable-social-media-profiles-icons-screensavers-as-templatex9_719432-1328.jpg'
   },
   {
     content:`I was using Bootstrap first, then switched to Tailwind, but there were so
       many classes—too much code. Then I found daisyUI. If you're coming from a
       BootstrapCSS background, you will love daisyUI for sure. 🙌`,
-    name:"Jagdish Kashyap",
+    name:"Herman",
     jobtitle:"Software Developer",
-    img:'https://img.daisyui.com/generated/x.webp?2025-03-17T10:36:37.751Z'
+    img:'https://img.freepik.com/premium-vector/vector-flat-illustration-grayscale-avatar-user-profile-person-icon-profile-picture-business-profile-woman-suitable-social-media-profiles-icons-screensavers-as-templatex9_719432-1328.jpg'
   },
   {
     content:`I was using Bootstrap first, then switched to Tailwind, but there were so
       many classes—too much code. Then I found daisyUI. If you're coming from a
       BootstrapCSS background, you will love daisyUI for sure. 🙌`,
-    name:"Jagdish Kashyap",
+    name:"Herman",
     jobtitle:"Software Developer",
-    img:'https://img.daisyui.com/generated/x.webp?2025-03-17T10:36:37.751Z'
+    img:'https://img.freepik.com/premium-vector/vector-flat-illustration-grayscale-avatar-user-profile-person-icon-profile-picture-business-profile-woman-suitable-social-media-profiles-icons-screensavers-as-templatex9_719432-1328.jpg'
   },
   {
     content:`I was using Bootstrap first, then switched to Tailwind, but there were so
       many classes—too much code. Then I found daisyUI. If you're coming from a
       BootstrapCSS background, you will love daisyUI for sure. 🙌`,
-    name:"Jagdish Kashyap",
+    name:"Herman",
     jobtitle:"Software Developer",
-    img:'https://img.daisyui.com/generated/x.webp?2025-03-17T10:36:37.751Z'
+    img:'https://img.freepik.com/premium-vector/vector-flat-illustration-grayscale-avatar-user-profile-person-icon-profile-picture-business-profile-woman-suitable-social-media-profiles-icons-screensavers-as-templatex9_719432-1328.jpg'
   },
   {
     content:`I was using Bootstrap first, then switched to Tailwind, but there were so
       many classes—too much code. Then I found daisyUI. If you're coming from a
       BootstrapCSS background, you will love daisyUI for sure. 🙌`,
-    name:"Jagdish Kashyap",
+    name:"Herman",
     jobtitle:"Software Developer",
-    img:'https://img.daisyui.com/generated/x.webp?2025-03-17T10:36:37.751Z'
+    img:'https://img.freepik.com/premium-vector/vector-flat-illustration-grayscale-avatar-user-profile-person-icon-profile-picture-business-profile-woman-suitable-social-media-profiles-icons-screensavers-as-templatex9_719432-1328.jpg'
   },
   {
     content:`I was using Bootstrap first, then switched to Tailwind, but there were so
       many classes—too much code. Then I found daisyUI. If you're coming from a
       BootstrapCSS background, you will love daisyUI for sure. 🙌`,
-    name:"Jagdish Kashyap",
+    name:"Herman",
     jobtitle:"Software Developer",
-    img:'https://img.daisyui.com/generated/x.webp?2025-03-17T10:36:37.751Z'
+    img:'https://img.freepik.com/premium-vector/vector-flat-illustration-grayscale-avatar-user-profile-person-icon-profile-picture-business-profile-woman-suitable-social-media-profiles-icons-screensavers-as-templatex9_719432-1328.jpg'
   },
   {
     content:`I was using Bootstrap first, then switched to Tailwind, but there were so
       many classes—too much code. Then I found daisyUI. If you're coming from a
       BootstrapCSS background, you will love daisyUI for sure. 🙌`,
-    name:"Jagdish Kashyap",
+    name:"Herman",
     jobtitle:"Software Developer",
-    img:'https://img.daisyui.com/generated/x.webp?2025-03-17T10:36:37.751Z'
+    img:'https://img.freepik.com/premium-vector/vector-flat-illustration-grayscale-avatar-user-profile-person-icon-profile-picture-business-profile-woman-suitable-social-media-profiles-icons-screensavers-as-templatex9_719432-1328.jpg'
   },
   {
     content:`I was using Bootstrap first, then switched to Tailwind, but there were so
       many classes—too much code. Then I found daisyUI. If you're coming from a
       BootstrapCSS background, you will love daisyUI for sure. 🙌`,
-    name:"Jagdish Kashyap",
+    name:"Herman",
     jobtitle:"Software Developer",
-    img:'https://img.daisyui.com/generated/x.webp?2025-03-17T10:36:37.751Z'
+    img:'https://img.freepik.com/premium-vector/vector-flat-illustration-grayscale-avatar-user-profile-person-icon-profile-picture-business-profile-woman-suitable-social-media-profiles-icons-screensavers-as-templatex9_719432-1328.jpg'
   },
   {
     content:`I was using Bootstrap first, then switched to Tailwind, but there were so
       many classes—too much code. Then I found daisyUI. If you're coming from a
       BootstrapCSS background, you will love daisyUI for sure. 🙌`,
-    name:"Jagdish Kashyap",
+    name:"Herman",
     jobtitle:"Software Developer",
-    img:'https://img.daisyui.com/generated/x.webp?2025-03-17T10:36:37.751Z'
+    img:'https://img.freepik.com/premium-vector/vector-flat-illustration-grayscale-avatar-user-profile-person-icon-profile-picture-business-profile-woman-suitable-social-media-profiles-icons-screensavers-as-templatex9_719432-1328.jpg'
   },
   {
     content:`I was using Bootstrap first, then switched to Tailwind, but there were so
       many classes—too much code. Then I found daisyUI. If you're coming from a
       BootstrapCSS background, you will love daisyUI for sure. 🙌`,
-    name:"Jagdish Kashyap",
+    name:"Herman",
     jobtitle:"Software Developer",
-    img:'https://img.daisyui.com/generated/x.webp?2025-03-17T10:36:37.751Z'
+    img:'https://img.freepik.com/premium-vector/vector-flat-illustration-grayscale-avatar-user-profile-person-icon-profile-picture-business-profile-woman-suitable-social-media-profiles-icons-screensavers-as-templatex9_719432-1328.jpg'
   },
   {
     content:`I was using Bootstrap first, then switched to Tailwind, but there were so
       many classes—too much code. Then I found daisyUI. If you're coming from a
       BootstrapCSS background, you will love daisyUI for sure. 🙌`,
-    name:"Jagdish Kashyap",
+    name:"Herman",
     jobtitle:"Software Developer",
-    img:'https://img.daisyui.com/generated/x.webp?2025-03-17T10:36:37.751Z'
+    img:'https://img.freepik.com/premium-vector/vector-flat-illustration-grayscale-avatar-user-profile-person-icon-profile-picture-business-profile-woman-suitable-social-media-profiles-icons-screensavers-as-templatex9_719432-1328.jpg'
   },
   {
     content:`I was using Bootstrap first, then switched to Tailwind, but there were so
       many classes—too much code. Then I found daisyUI. If you're coming from a
       BootstrapCSS background, you will love daisyUI for sure. 🙌`,
-    name:"Jagdish Kashyap",
+    name:"Herman",
     jobtitle:"Software Developer",
-    img:'https://img.daisyui.com/generated/x.webp?2025-03-17T10:36:37.751Z'
+    img:'https://img.freepik.com/premium-vector/vector-flat-illustration-grayscale-avatar-user-profile-person-icon-profile-picture-business-profile-woman-suitable-social-media-profiles-icons-screensavers-as-templatex9_719432-1328.jpg'
   },
   {
     content:`I was using Bootstrap first, then switched to Tailwind, but there were so
       many classes—too much code. Then I found daisyUI. If you're coming from a
       BootstrapCSS background, you will love daisyUI for sure. 🙌`,
-    name:"Jagdish Kashyap",
+    name:"Herman",
     jobtitle:"Software Developer",
-    img:'https://img.daisyui.com/generated/x.webp?2025-03-17T10:36:37.751Z'
+    img:'https://img.freepik.com/premium-vector/vector-flat-illustration-grayscale-avatar-user-profile-person-icon-profile-picture-business-profile-woman-suitable-social-media-profiles-icons-screensavers-as-templatex9_719432-1328.jpg'
   },
   {
     content:`I was using Bootstrap first, then switched to Tailwind, but there were so
       many classes—too much code. Then I found daisyUI. If you're coming from a
       BootstrapCSS background, you will love daisyUI for sure. 🙌`,
-    name:"Jagdish Kashyap",
+    name:"Herman",
     jobtitle:"Software Developer",
-    img:'https://img.daisyui.com/generated/x.webp?2025-03-17T10:36:37.751Z'
+    img:'https://img.freepik.com/premium-vector/vector-flat-illustration-grayscale-avatar-user-profile-person-icon-profile-picture-business-profile-woman-suitable-social-media-profiles-icons-screensavers-as-templatex9_719432-1328.jpg'
   },
   {
     content:`I was using Bootstrap first, then switched to Tailwind, but there were so
       many classes—too much code. Then I found daisyUI. If you're coming from a
       BootstrapCSS background, you will love daisyUI for sure. 🙌`,
-    name:"Jagdish Kashyap",
+    name:"Herman",
     jobtitle:"Software Developer",
-    img:'https://img.daisyui.com/generated/x.webp?2025-03-17T10:36:37.751Z'
+    img:'https://img.freepik.com/premium-vector/vector-flat-illustration-grayscale-avatar-user-profile-person-icon-profile-picture-business-profile-woman-suitable-social-media-profiles-icons-screensavers-as-templatex9_719432-1328.jpg'
   },
 ];
 
