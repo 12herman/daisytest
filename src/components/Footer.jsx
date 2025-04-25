@@ -21,7 +21,7 @@ export default function Footer() {
       <p>
         ACME Industries Ltd.
         <br />
-        Providing reliable tech since 1992
+        Providing reliable tech since 2025
       </p>
     </aside>
     <nav>
