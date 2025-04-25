@@ -79,11 +79,12 @@ const downloadImg = ()=> htmToImgRef.current?.downloadImage();
               {cartdata.map((cdata, i) => (
                 <span key={i} className="relative flex gap-x-4 col-span-4 border-b-1 border-base-300 pb-3 mb-3">
                   <span className="absolute text-xs right-0 bottom-2 btn btn-link text-red-500" onClick={()=>removebycartid(cdata.id)}>Remove</span>
-                  <figure className="flex justify-center items-center w-28 flex-col gap-2">
-                    <img
+                  <figure  className="flex justify-center items-center w-28 flex-col gap-2 ">
+                    <div className="w-28 h-20 bg-cover bg-center bg-no-repeat rounded-sm" style={{backgroundImage: `url(${cdata.img})`}}></div>
+                    {/* <img
                       src={cdata.img}
                       alt="Shoes"
-                    />
+                    /> */}
                     <select
                       value={cdata.weight}
                       onChange={(e)=> selectOnchange(e,cdata.id)}

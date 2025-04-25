@@ -28,9 +28,9 @@ export default function Nav() {
 
   return (
     <Layout>
-      <section className="relative">
+      <section className="relative ">
       {/* pc Nav */}
-      <div className="navbar bg-base-100 flex justify-between fixed top-0 z-[50] left-1/2 -translate-x-1/2">
+      <div className="navbar max-w-screen-xl mx-auto bg-base-100 flex justify-between fixed top-0 z-[50] left-1/2 -translate-x-1/2">
         <div className="flex items-center lg:flex-1">
           <div className="drawer-content lg:hidden ">
             <label htmlFor="my-drawer" className="drawer-button cursor-pointer">
@@ -50,7 +50,7 @@ export default function Nav() {
               </svg>
             </label>
           </div>
-          <Link to='/' className="btn btn-ghost text-xl">Herman</Link>
+          <Link to='/' className="btn btn-ghost text-xl">Simple Cart</Link>
         </div>
         <div className="flex-none ">
           <ul className="menu menu-horizontal px-1 flex items-center justify-between">
@@ -127,7 +127,7 @@ export default function Nav() {
             className="drawer-overlay"
           ></label>
           <ul className="menu bg-base-100 text-base-content min-h-full w-80 p-4">
-          <Link to='/' className="btn btn-ghost text-xl flex items-center place-content-start">Herman</Link>
+          <Link to='/' className="btn btn-ghost text-xl flex items-center place-content-start">Simple Cart</Link>
            
             {navbarData.map((data, i) => (
               <li key={i}>

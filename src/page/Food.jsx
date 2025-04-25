@@ -55,7 +55,7 @@ export default function Food() {
         </div>
       </section>
 
-      <section className="mt-5 mb-10 lg:mb-20 flex flex-wrap gap-1 sm:gap-3 justify-center sm:justify-start items-center">
+      <section className="mt-5 mb-10 lg:mb-20  flex flex-wrap gap-1 sm:gap-3 justify-center sm:justify-start items-center">
         {filteredProducts.length > 0 ? filteredProducts.map((fdata, i) => (
           <div key={i} className="card bg-base-100 border border-base-300 w-44 md:w-64 rounded-xl">
             <figure style={{backgroundImage: `url(${fdata.img})`}} className='relative w-full h-[100px] sm:h-[160px] bg-cover bg-center bg-no-repeat'>

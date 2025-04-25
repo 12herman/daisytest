@@ -1,7 +1,10 @@
 import React from 'react'
+import Layout from './Layout'
 
 export default function Footer() {
   return (
+    <section className='bg-neutral'>
+    <div className='max-w-screen-xl mx-auto'>
     <footer className="footer sm:footer-horizontal bg-neutral text-neutral-content p-10">
     <aside>
       <svg
@@ -60,5 +63,7 @@ export default function Footer() {
       </div>
     </nav>
   </footer>
+  </div>
+  </section>
   )
 }

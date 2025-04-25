@@ -294,7 +294,7 @@ export const FoodPageProductData = [
 // ii) food product details
 export const HandMadeProductData = [
   {
-    id:'food1',
+    id:'food8',
     heading:"Product1",
     description:"A card component has a figure, a body part, and inside body there are title and actions parts",
     img:"https://cdn.pixabay.com/photo/2022/05/17/02/43/pins-7201500_1280.jpg",
@@ -306,7 +306,7 @@ export const HandMadeProductData = [
     weight:"1"
   },
   {
-    id:'food2',
+    id:'food9',
    heading:"Product2",
     description:"A card component has a figure, a body part, and inside body there are title and actions parts",
     img:"https://cdn.pixabay.com/photo/2024/05/13/20/10/ai-generated-8759668_1280.jpg",
@@ -318,7 +318,7 @@ export const HandMadeProductData = [
     weight:"1"
   },
   {
-    id:'food3',
+    id:'food10',
    heading:"Product3",
     description:"A card component has a figure, a body part, and inside body there are title and actions parts",
     img:"https://cdn.pixabay.com/photo/2022/08/01/07/36/embroidery-7357531_1280.jpg",
@@ -330,7 +330,7 @@ export const HandMadeProductData = [
     weight:"1"
   },
   {
-    id:'food4',
+    id:'food11',
    heading:"Product4",
     description:"A card component has a figure, a body part, and inside body there are title and actions parts",
     img:"https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp",
@@ -342,7 +342,7 @@ export const HandMadeProductData = [
     weight:"1"
   },
   {
-    id:'food5',
+    id:'food12',
    heading:"Product5",
     description:"A card component has a figure, a body part, and inside body there are title and actions parts",
     img:"https://cdn.pixabay.com/photo/2018/07/23/10/01/leather-craft-3556443_1280.jpg",
@@ -354,7 +354,7 @@ export const HandMadeProductData = [
     weight:"1"
   },
   {
-    id:'food6',
+    id:'food13',
    heading:"Product6",
     description:"A card component has a figure, a body part, and inside body there are title and actions parts",
     img:"https://cdn.pixabay.com/photo/2013/03/23/23/10/brush-96240_1280.jpg",
@@ -366,7 +366,7 @@ export const HandMadeProductData = [
     weight:"1"
   },
   {
-    id:'food7',
+    id:'food14',
    heading:"Product7",
     description:"A card component has a figure, a body part, and inside body there are title and actions parts",
     img:"https://cdn.pixabay.com/photo/2016/07/08/14/12/bowl-1504422_1280.jpg",
